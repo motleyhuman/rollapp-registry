@@ -1,7 +1,7 @@
 {
   "chainId": "availibty_4294228-1",
   "chainName": "Availibty",
-  "rpc": "https://84.247.188.160:26667",
+  "rpc": "https://84.247.188.160:26657",
   "rest": "https://84.247.188.160:1317",
   "bech32Prefix": "ethm",
   "currencies": [
