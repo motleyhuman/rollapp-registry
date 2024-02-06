@@ -1,8 +1,8 @@
 {
   "chainId": "availibty_4294228-1",
   "chainName": "Availibty",
-  "rpc": "https://portal.dymension.xyz/rollapp/availibty_4294228-1/metrics:26667",
-  "rest": "https://portal.dymension.xyz/rollapp/availibty_4294228-1/metrics:1317",
+  "rpc": "https://84.247.188.160:26667",
+  "rest": "https://84.247.188.160:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x263c27",
-    "rpc": "https://portal.dymension.xyz/rollapp/availibty_4294228-1/metrics:8545"
+    "rpc": "https://84.247.188.160:8545"
   },
   "type": "RollApp",
   "da": "Avail",
